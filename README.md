@@ -24,7 +24,7 @@ I came up with this idea because I am currently learning to become a software en
 ## Planned Features
 
 - Compare files and folders
-- Create file/folder backups
+- Create file/folder backups (in process...)
 
 ## Author
 
